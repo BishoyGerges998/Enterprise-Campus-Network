@@ -50,7 +50,7 @@ automated provisioning via DHCP Option 150.
 - ACL security testing
 
 ## 📂 Project Files
-- [📄 Full Documentation (PDF)](Documentation/Enterprise_Campus_Network_Implementation.pdf) — complete design details and CLI configurations
+- [📄 Full Documentation (PDF)](Enterprise_Campus_Network_Implementation.pdf) — complete design details and CLI configurations
 - [🖧 Network Topology](Images/project_topology.png)
 - [📦 Packet Tracer File](project.pkt) — open with Cisco Packet Tracer
 
